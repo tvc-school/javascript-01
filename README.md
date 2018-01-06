@@ -5,3 +5,4 @@
 3. $ yarn install
 4. $ yarn test
 
+![output](https://github.com/klequis/tvc-js-01/blob/master/readme01.png)
