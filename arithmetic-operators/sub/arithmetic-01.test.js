@@ -1,4 +1,4 @@
-const { addTwoNumbers, addThreeNumbers, subtractTwoNumbers, subtractThreeNumbers, divideTwoNumbers, multiplyThreeNumbers, findRemainder, toTheThirdPower, toTheXPower, incrementByOne, decrementByOne } = require('./arithmetic-01');
+const { addTwoNumbers, addThreeNumbers, subtractTwoNumbers, subtractThreeNumbers, divideTwoNumbers, multiplyThreeNumbers, findRemainder, toTheThirdPower, toTheXPower, incrementByOne, decrementByOne } = require('../arithmetic-01');
 
 test('addTwoNumbers', () => {
   expect(addTwoNumbers(1, 2)).toBe(3);
